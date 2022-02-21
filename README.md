@@ -12,9 +12,9 @@
 
 I will skip a long "about me" text here. If you want to know more about me, feel free to connect on [LinkedIN](https://www.linkedin.com/in/ᥨxp/), Discord or TG.
 
-If you identify with the values of decentralisation as much as I do, please support our Open Source Payment Protocol @DePayFi by integrating it in your projects. 
+If you identify with the values of decentralization as much as I do, please support our [Open Source Multichain Payment Protocol (DePay)](https://github.com/depayfi) by integrating it in your projects. 
 
-We are happy about every dev we can support. Let's buidl together 💪⚒️
+**We are happy about every dev we can support. Let's buidl together 💪⚒️**
 
 - [DePay Documentation | Accept any token with on-the-fly conversion (multichain payments)](https://depay.fi/documentation)
 - [Telegram Community](https://t.me/DePayFi)
