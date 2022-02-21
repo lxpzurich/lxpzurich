@@ -31,16 +31,16 @@ Because it's hard to make a disruptive technology known and drive adoption if yo
 
 I'm neutral on the Web3 term. 
 
-But I understand you if you prefer terms that describe a technology more accurately and are not abstract inventions of investors, hype influencers or paid rappers who, far from the values of decentralisation, try to label the hard work of real BUIDLers with neologisms to profit from it. 
+But I understand you if you prefer terms that describe a technology more accurately and are not abstract inventions of investors, hype influencers or paid rappers who, far from the values of decentralization, try to label the hard work of real BUIDLers with neologisms to profit from it. 
 
-However - we are creating something new and are happy about everyone who is driving the future with us. And that's why I embrace any type of terminology used to describe our collective 🤗.
+However - we are creating something new and are happy about everyone who is driving the future with us. And that's why I embrace **ANY type of terminology** used to describe our collective 🤗.
 
 ## Sad truth: Crypto payment providers have always been an oxymoron
 You are ready for the go-live, but your dApp/Crypto still needs a solution for accepting Crypto payments. 
 
-At this point, many people don't realise that the integration of common payment solutions **will cause the degree of decentralisation of their project to plummet** - probably at a very early stage of your project which was initially meant to be a driver for decentralization.
+At this point, many people don't realise that the integration of common payment solutions **will cause the degree of decentralization of their project to plummet** - probably at a very early stage of your project which was initially meant to be a driver for decentralization.
 
-The sad truth is: pretty much all the big players in the payments space are not decentralised and require the same level of trust as a traditional bank.
+The sad truth is: pretty much all the big players in the payments space are not decentralized and require the same level of trust as a traditional bank.
 
 DePay is pioneering Crypto Payments because it's permissionless & trustless. Our widgets can be integrated into your project within minutes and the UX leaves no wishes unfulfilled
 
