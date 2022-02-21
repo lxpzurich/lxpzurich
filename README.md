@@ -1,8 +1,13 @@
 # Start accepting truly decentralised multichain Crypto donations right on GitHub
+
+----
+
 <iframe width="677" height="389" src="https://www.youtube.com/embed/LdnE2n6sM-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Demo**: https://lxpzurich.github.io
-**How-to:** [Accept Web3 Crypto Donations hosted on GitHub Pages | DePay on Medium.com](https://medium.com/depay/breakthrough-decentralized-donations-on-github-pages-da9b23994eca)
+- **Demo**: https://lxpzurich.github.io
+- **How-to:** [Accept Web3 Crypto Donations hosted on GitHub Pages | DePay on Medium.com](https://medium.com/depay/breakthrough-decentralized-donations-on-github-pages-da9b23994eca)
+
+-----
 
 I will skip a long "about me" text here. If you want to know more about me, feel free to connect on [LinkedIN](https://www.linkedin.com/in/ᥨxp/), Discord or TG.
 
