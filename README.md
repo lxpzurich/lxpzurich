@@ -1,4 +1,4 @@
-# Start accepting truly decentralised multichain Crypto donations right on GitHub
+# Start accepting truly decentralized multichain Crypto donations right on GitHub
 
 ----
 
