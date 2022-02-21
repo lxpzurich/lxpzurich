@@ -2,7 +2,8 @@
 
 ----
 
-<iframe width="677" height="389" src="https://www.youtube.com/embed/LdnE2n6sM-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Accept decentralized crypto donations on Github](decentralized-web3-donations.gif)
+<br />
 
 - **Demo**: https://lxpzurich.github.io
 - **How-to:** [Accept Web3 Crypto Donations hosted on GitHub Pages | DePay on Medium.com](https://medium.com/depay/breakthrough-decentralized-donations-on-github-pages-da9b23994eca)
@@ -13,7 +14,7 @@ I will skip a long "about me" text here. If you want to know more about me, feel
 
 If you identify with the values of decentralisation as much as I do, please support our Open Source Payment Protocol @DePayFi by integrating it in your projects. 
 
-We are happy about every dev we can support. Let's buidl together :)
+We are happy about every dev we can support. Let's buidl together 💪⚒️
 
 - [DePay Documentation | Accept any token with on-the-fly conversion (multichain payments)](https://depay.fi/documentation)
 - [Telegram Community](https://t.me/DePayFi)
